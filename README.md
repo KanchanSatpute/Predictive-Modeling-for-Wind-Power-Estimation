@@ -1,1 +1,1 @@
-# Python---Wind-Power-Estimation
+# Python - Wind Power Estimation
