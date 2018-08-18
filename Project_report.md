@@ -1,22 +1,21 @@
 ![](media/image1.png){width="0.9508114610673666in" height="0.78125in"}
 
-Texas A&M University
+## <center>Texas A&M University</center>
 
-Department of Industrial and Systems Engineering
+### <center>Department of Industrial and Systems Engineering</center>
 
-ISEN 619 – Analysis and Prediction
+#### ISEN 619 – Analysis and Prediction
 
-*Predictive Modelling for Wind Power generation*
+#### __Predictive Modelling for Wind Power generation__
 
-*Authors: Course Instructor:*
+*Authors:*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Course Instructor:*
 
-Vedant Mehta – 526004598 Dr. Yu Ding
+Vedant Mehta &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dr. Yu Ding
+Kanchan Satpute
 
-Kanchan Satpute – 227001949
+<center>May 1, 2018</center>
 
-May 1, 2018
-
-*Executive Summary*
+<center>#### __Executive Summary__ </center>
 
 Current industrial practice of predicting the power generation heavily
 relies on a method known as the binning method which is recommended by
