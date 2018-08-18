@@ -1,9 +1,9 @@
 ## <p align="center"><u>Predictive Modelling for Wind Power generation</u></p>
 
-<details>
-   <summary> Executive Summary </summary>
-
-Current industrial practice of predicting the power generation heavily relies on a method known as the binning method which is recommended by International Electrotechnical Commission (IEC). This is a simple approach where the main predictor, i.e., wind speed, is divided into discrete bins. The value to be used for representing the power output for a given bin is average for all the data points in each of those bins. <br>
+<div id="section1">
+  <h1>Executive Summary</h1>
+   
+   <p>Current industrial practice of predicting the power generation heavily relies on a method known as the binning method which is recommended by International Electrotechnical Commission (IEC). This is a simple approach where the main predictor, i.e., wind speed, is divided into discrete bins. The value to be used for representing the power output for a given bin is average for all the data points in each of those bins. <br>
 
 Above mentioned method is a simple method which takes into consideration
 only a single predictor namely “Wind speed”. There are other factors
@@ -37,8 +37,8 @@ though, CART being a simpler method as compared to other algorithms like
 SVM and GPR, it gives the least RMSE among all the methods used for
 prediction. Might be because of how the data is inherently structured.
 Finally we compare the RMSE of all the models and use the best among
-those methods for final prediction on test dataset. 
-</details>
+those methods for final prediction on test dataset. </p>
+</div>
 
 *Table of Content*
 
