@@ -1,6 +1,8 @@
-##### __Predictive Modelling for Wind Power generation__
+<center>
+## __Predictive Modelling for Wind Power generation__
+</center>
 
-#### __Executive Summary__
+### __Executive Summary__
 
 Current industrial practice of predicting the power generation heavily
 relies on a method known as the binning method which is recommended by
