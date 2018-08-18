@@ -2,7 +2,7 @@
 
 ### __Executive Summary__
 
-<p style='text-align: justify;'> Current industrial practice of predicting the power generation heavily relies on a method known as the binning method which is recommended by International Electrotechnical Commission (IEC). This is a simple approach where the main predictor, i.e., wind speed, is divided into discrete bins. The value to be used for representing the power output for a given bin is average for all the data points in each of those bins. </p>
+<span style="text-align: justify;> Current industrial practice of predicting the power generation heavily relies on a method known as the binning method which is recommended by International Electrotechnical Commission (IEC). This is a simple approach where the main predictor, i.e., wind speed, is divided into discrete bins. The value to be used for representing the power output for a given bin is average for all the data points in each of those bins. </span>
 
 Above mentioned method is a simple method which takes into consideration
 only a single predictor namely “Wind speed”. There are other factors
