@@ -9,7 +9,7 @@ International Electrotechnical Commission (IEC). This is a simple
 approach where the main predictor, i.e., wind speed, is divided into
 discrete bins. The value to be used for representing the power output
 for a given bin is average for all the data points in each of those
-bins.
+bins. </div>
 
 Above mentioned method is a simple method which takes into consideration
 only a single predictor namely “Wind speed”. There are other factors
@@ -43,7 +43,7 @@ though, CART being a simpler method as compared to other algorithms like
 SVM and GPR, it gives the least RMSE among all the methods used for
 prediction. Might be because of how the data is inherently structured.
 Finally we compare the RMSE of all the models and use the best among
-those methods for final prediction on test dataset. </div>
+those methods for final prediction on test dataset. 
 
 *Table of Content*
 
