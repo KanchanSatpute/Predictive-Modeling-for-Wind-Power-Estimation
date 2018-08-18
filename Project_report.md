@@ -44,7 +44,7 @@ those methods for final prediction on test dataset.
 
 <details>
   <summary>
-1. Introduction 
+   Introduction 
   </summary>
 -------------------
 
