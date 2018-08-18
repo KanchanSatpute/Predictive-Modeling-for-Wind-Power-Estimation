@@ -1,21 +1,6 @@
-![](media/image1.png){width="0.9508114610673666in" height="0.78125in"}
+##### __Predictive Modelling for Wind Power generation__
 
-## <center>Texas A&M University</center>
-
-### <center>Department of Industrial and Systems Engineering</center>
-
-#### ISEN 619 – Analysis and Prediction
-
-#### __Predictive Modelling for Wind Power generation__
-
-*Authors:*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Course Instructor:*
-
-Vedant Mehta &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dr. Yu Ding
-Kanchan Satpute
-
-<center>May 1, 2018</center>
-
-<center>#### __Executive Summary__ </center>
+#### __Executive Summary__
 
 Current industrial practice of predicting the power generation heavily
 relies on a method known as the binning method which is recommended by
