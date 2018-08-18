@@ -42,7 +42,10 @@ Finally we compare the RMSE of all the models and use the best among
 those methods for final prediction on test dataset.
 </details>
 
-**1. Introduction**
+<details>
+  <summary>
+**1. Introduction** 
+  </summary>
 -------------------
 
 Wind energy is one of the fastest growing renewable energy sources.
@@ -96,6 +99,7 @@ D, environment temperature, T, turbulence intensity I. Turbulence was
 calculated using the following formula:
 
 $$I = \frac{\text{SD}}{V}$$
+</details>
 
 **2. Data**
 -----------
