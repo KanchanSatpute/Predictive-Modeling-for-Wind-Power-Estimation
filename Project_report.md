@@ -2,6 +2,7 @@
 
 ### __Executive Summary__
 
+<div style="text-align: justify">
 Current industrial practice of predicting the power generation heavily
 relies on a method known as the binning method which is recommended by
 International Electrotechnical Commission (IEC). This is a simple
@@ -42,7 +43,7 @@ though, CART being a simpler method as compared to other algorithms like
 SVM and GPR, it gives the least RMSE among all the methods used for
 prediction. Might be because of how the data is inherently structured.
 Finally we compare the RMSE of all the models and use the best among
-those methods for final prediction on test dataset.
+those methods for final prediction on test dataset. </div>
 
 *Table of Content*
 
