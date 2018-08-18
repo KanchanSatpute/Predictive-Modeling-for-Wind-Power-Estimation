@@ -2,7 +2,7 @@
 
 <details>
   <summary>
-    Executive Summary
+    <b>Executive Summary</b>
   </summary>
    
 Current industrial practice of predicting the power generation heavily relies on a method known as the binning method which is recommended by International Electrotechnical Commission (IEC). This is a simple approach where the main predictor, i.e., wind speed, is divided into discrete bins. The value to be used for representing the power output for a given bin is average for all the data points in each of those bins. <br>
@@ -44,9 +44,8 @@ those methods for final prediction on test dataset.
 
 <details>
   <summary>
-   Introduction 
+    <b>Introduction</b>
   </summary>
--------------------
 
 Wind energy is one of the fastest growing renewable energy sources.
 According to US Department of Energy (DOE), the US’ wind power capacity
@@ -101,8 +100,10 @@ calculated using the following formula:
 $$I = \frac{\text{SD}}{V}$$
 </details>
 
-**2. Data**
------------
+<details>
+  <summary>
+    <b>Data</b>
+  </summary>
 
 ### **2.1 The Dataset**
 
@@ -192,9 +193,12 @@ We have further separated our training data into training and validation
 sets of 21697(70%) and 9300(30%) each using the
 *sklearn.model\_selection* tool. All the models will be trained on the
 training set and validated on validation set.
+</details>
 
-**3. Methods**
---------------
+<details>
+  <summary>
+    <b>Methods</b>
+  </summary>
 
 This section discusses the methods or algorithms used for building the
 prediction model. We have tried to use majority of the popular learning
@@ -317,9 +321,12 @@ after bootstrapping and bagging.
 Training RMSE = 0.0356
 
 Validation RMSE = 0.039
+</details>
 
-**4. Conclusion**
------------------
+<details>
+  <summary>
+    <b>Conclusion</b>
+  </summary>
 
 After applying above predictive modelling techniques and carefully
 observing the output, we have chosen Random Forest to be the best model
@@ -343,3 +350,4 @@ reduce this variance that can cause errors in decision trees by
 aggregating the different outputs of the individual trees. Thus, Random
 Forest transforms low bias high variance decision trees into a model
 that has both, low variance and low bias.
+</details>
