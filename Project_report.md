@@ -1,11 +1,9 @@
 ## <p align="center"><u>Predictive Modelling for Wind Power generation</u></p>
 
 <details>
-  <h3>
-    <summary>
+   <summary>
       Executive Summary
-    </summary>
-  </h3>
+   </summary>
    
 Current industrial practice of predicting the power generation heavily relies on a method known as the binning method which is recommended by International Electrotechnical Commission (IEC). This is a simple approach where the main predictor, i.e., wind speed, is divided into discrete bins. The value to be used for representing the power output for a given bin is average for all the data points in each of those bins. <br>
 
@@ -43,27 +41,6 @@ prediction. Might be because of how the data is inherently structured.
 Finally we compare the RMSE of all the models and use the best among
 those methods for final prediction on test dataset.
 </details>
-
-*Table of Content*
-
-**List of Figures**
-
-[Figure 1: Heat Map showing correlation 6](#_Toc512950102)
-
-[Figure 2: Correlation matrix 7](#_Toc512950103)
-
-[Figure 3: Average power for each month 8](#_Toc512950104)
-
-[Figure 4: Average values of predictors over each month
-8](#_Toc512950105)
-
-[Figure 5: (Left Panel) Predicted value vs Output, (Right Panel)
-Residual vs. Predicted output 9](#_Toc512950106)
-
-[Figure 6: Predicted output vs Actual output 10](#_Toc512950107)
-
-*\
-*
 
 **1. Introduction**
 -------------------
