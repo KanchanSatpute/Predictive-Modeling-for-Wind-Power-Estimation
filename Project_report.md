@@ -1,4 +1,4 @@
-<p align="center"><font size="20"><u>Predictive Modelling for Wind Power generation</u></font></p>
+## <p align="center"><u>Predictive Modelling for Wind Power generation</u></p>
 
 ### __Executive Summary__
 
