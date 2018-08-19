@@ -160,10 +160,10 @@ for the months of (Nov – April) and are lower for the months of (May –
 Oct).
 
 <p align="center">
-<img src="https://github.com/KanchanSatpute/Python-Wind-Power-Estimation/blob/master/Plots/Avg%20power%20each%20month.JPG">
+   <img src="https://github.com/KanchanSatpute/Python-Wind-Power-Estimation/blob/master/Plots/Avg%20power%20each%20month.JPG">
 </p>
 <p align="center">
-<i>Figure 3: Average power for each month</i>
+   <i>Figure 3: Average power for each month</i>
 </p>
 
 This implies that spring season generates comparatively higher power
@@ -226,13 +226,11 @@ method.
 Below shown are the plots: (Left panel): Predicted values vs Output,
 (Right panel): Residual vs Predicted values
 
-![](media/image6.png){width="2.5680008748906387in"
-height="1.6940737095363079in"}
-![](media/image7.png){width="2.599758311461067in"
-height="1.7920002187226596in"}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![img1](https://github.com/KanchanSatpute/Python-Wind-Power-Estimation/blob/master/Plots/linreg.png) &nbsp;&nbsp;&nbsp; ![img2](https://github.com/KanchanSatpute/Python-Wind-Power-Estimation/blob/master/Plots/linreg1.png)
 
-[]{#_Toc512950106 .anchor}Figure : (Left Panel) Predicted value vs
-Output, (Right Panel) Residual vs. Predicted output
+<p align="center">
+   <i>Figure : (Left Panel) Predicted value vs Output, (Right Panel) Residual vs. Predicted output</i>
+</p>
 
 ### **3.2 Ridge Regression**
 
