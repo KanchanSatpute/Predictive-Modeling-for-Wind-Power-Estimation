@@ -37,3 +37,7 @@ Finally we compare the RMSE of all the models and use the best among
 those methods for final prediction on test dataset.
 
 The project report can be found [here](https://github.com/KanchanSatpute/Predictive-Modeling-for-Wind-Power-Estimation/blob/master/Project_report.md "Project Report")
+
+A short presentation summarizing the project can be found [here](https://github.com/KanchanSatpute/Predictive-Modeling-for-Wind-Power-Estimation/blob/master/Presentation.pdf "Presentation")
+
+Code for the whole project can be found [here](https://github.com/KanchanSatpute/Predictive-Modeling-for-Wind-Power-Estimation/blob/master/Project_code.ipynb "Project Code")
