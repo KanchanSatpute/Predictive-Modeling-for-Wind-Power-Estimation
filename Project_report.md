@@ -261,10 +261,12 @@ impose on errors). There are several options of kernels to use. The
 library we have used provides options like ‘rbf’ – radial basis
 function, ‘poly’ – higher degree function, ‘linear’, ‘sigmoid’, etc.
 
-![](media/image8.png){width="3.3280008748906384in"
-height="2.2364162292213474in"}
-
-[]{#_Toc512950107 .anchor}Figure : Predicted output vs Actual output
+<p align="center">
+   <img src="https://github.com/KanchanSatpute/Python-Wind-Power-Estimation/blob/master/Plots/svm%20-%20pred%20vs%20output.png" width="700" height="600">
+</p>
+<p align="center">
+   <i>Figure 6: Predicted output vs Actual output</i>
+</p>
 
 The above figure shows the plot of predicted power vs. actual power. We
 did a 10 – fold cross validation for different combinations of kernel
