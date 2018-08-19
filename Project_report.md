@@ -71,7 +71,7 @@ each bins, namely:
 </p>
 
 where ![img](http://latex.codecogs.com/svg.latex?y_%7Bi%2Cj%7D) is the power output of the ![img](http://latex.codecogs.com/svg.latex?j%5Et%5Eh) data point in bin *i*
-and N~i~ is the number of data points in bin *i*. So this method takes
+and N_i is the number of data points in bin *i*. So this method takes
 only wind speed into consideration while predicting the power output and
 ignores all other environmental variables which might have a significant
 effect on the analysis.
@@ -92,7 +92,9 @@ analysis included wind speed, V, wind speed stdev, SD, wind direction,
 D, environment temperature, T, turbulence intensity I. Turbulence was
 calculated using the following formula:
 
-$$I = \frac{\text{SD}}{V}$$
+<p align="center">
+   <img src="http://latex.codecogs.com/svg.latex?I%3D%5Cfrac%7B%5Ctext%7BSD%7D%7D%7BV%7D">
+</p>
 
 <h2>Data</h2>
 
