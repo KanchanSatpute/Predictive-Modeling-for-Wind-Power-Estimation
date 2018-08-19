@@ -159,10 +159,12 @@ in this plot, we can say that the power output is comparatively higher
 for the months of (Nov – April) and are lower for the months of (May –
 Oct).
 
-![](media/image4.JPG){width="3.721519028871391in"
-height="2.277347987751531in"}
-
-[]{#_Toc512950104 .anchor}Figure : Average power for each month
+<p align="center">
+<img src="https://github.com/KanchanSatpute/Python-Wind-Power-Estimation/blob/master/Plots/Avg%20power%20each%20month.JPG">
+</p>
+<p align="center">
+<i>Figure 4: Average power for each month</i>
+</p>
 
 This implies that spring season generates comparatively higher power
 output on an average, which is a little intuitive because of the change
@@ -170,10 +172,12 @@ in weather conditions. This finding suggests that we should analyze the
 change of input variables with time to see if there is a larger
 variability in data as time changes.
 
-![](media/image5.JPG){width="6.5in" height="2.6534722222222222in"}
-
-[]{#_Toc512950105 .anchor}Figure : Average values of predictors over
-each month
+<p align="center">
+   <img src="https://github.com/KanchanSatpute/Python-Wind-Power-Estimation/blob/master/Plots/Avg_pred_values_per_month.JPG">
+</p>
+<p align="center">
+   <i>}Figure 5: Average values of predictors over each month</i>
+</p>
 
 Figure 4 represents the average values of all the attributes taken over
 each month for the training data and gives an idea of how each of them
@@ -262,7 +266,7 @@ library we have used provides options like ‘rbf’ – radial basis
 function, ‘poly’ – higher degree function, ‘linear’, ‘sigmoid’, etc.
 
 <p align="center">
-   <img src="https://github.com/KanchanSatpute/Python-Wind-Power-Estimation/blob/master/Plots/svm%20-%20pred%20vs%20output.png" width="400" height="400">
+   <img src="https://github.com/KanchanSatpute/Python-Wind-Power-Estimation/blob/master/Plots/svm%20-%20pred%20vs%20output.png" width="500" height="400">
 </p>
 <p align="center">
    <i>Figure 6: Predicted output vs Actual output</i>
