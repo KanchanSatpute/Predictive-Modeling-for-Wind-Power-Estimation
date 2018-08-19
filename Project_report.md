@@ -163,7 +163,7 @@ Oct).
 <img src="https://github.com/KanchanSatpute/Python-Wind-Power-Estimation/blob/master/Plots/Avg%20power%20each%20month.JPG">
 </p>
 <p align="center">
-<i>Figure 4: Average power for each month</i>
+<i>Figure 3: Average power for each month</i>
 </p>
 
 This implies that spring season generates comparatively higher power
@@ -176,7 +176,7 @@ variability in data as time changes.
    <img src="https://github.com/KanchanSatpute/Python-Wind-Power-Estimation/blob/master/Plots/Avg_pred_values_per_month.JPG">
 </p>
 <p align="center">
-   <i>}Figure 5: Average values of predictors over each month</i>
+   <i>Figure 4: Average values of predictors over each month</i>
 </p>
 
 Figure 4 represents the average values of all the attributes taken over
@@ -322,6 +322,13 @@ after bootstrapping and bagging.
 Training RMSE = 0.0356
 
 Validation RMSE = 0.039
+
+<p align="center">
+   <img src="https://github.com/KanchanSatpute/Python-Wind-Power-Estimation/blob/master/Plots/oob%20error%20rate.png" width="500" height="400">
+</p>
+<p align="center">
+   <i>Figure 7: OOB error rate vs Tree size</i>
+</p>
 
 <h2>Conclusion</h2>
 
