@@ -1,4 +1,4 @@
-# Python - Wind Power Estimation
+# Wind Power Estimation
 
 <h2> Executive Summary </h2>
    
@@ -38,4 +38,4 @@ prediction. Might be because of how the data is inherently structured.
 Finally we compare the RMSE of all the models and use the best among
 those methods for final prediction on test dataset.
 
-The project report can be found in the file 'Project_report.md'
+The project report can be found in the file `Project_report.md`
