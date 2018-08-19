@@ -140,7 +140,7 @@ scatterplots between all the pairs of attributes and power output, using
 the *seaborn.PairGrid* tool.
 
 <p align="center">
-   <img src="https://github.com/KanchanSatpute/Python-Wind-Power-Estimation/blob/master/Plots/PairPlots.png" width="600" height="500">
+   <img src="https://github.com/KanchanSatpute/Python-Wind-Power-Estimation/blob/master/Plots/PairPlots.png" width="700" height="600">
 </p>
 <p align="center">
    <i>Figure 2: Pair plots</i>
