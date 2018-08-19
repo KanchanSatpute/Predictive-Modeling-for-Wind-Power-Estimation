@@ -262,7 +262,7 @@ library we have used provides options like ‘rbf’ – radial basis
 function, ‘poly’ – higher degree function, ‘linear’, ‘sigmoid’, etc.
 
 <p align="center">
-   <img src="https://github.com/KanchanSatpute/Python-Wind-Power-Estimation/blob/master/Plots/svm%20-%20pred%20vs%20output.png" width="700" height="600">
+   <img src="https://github.com/KanchanSatpute/Python-Wind-Power-Estimation/blob/master/Plots/svm%20-%20pred%20vs%20output.png" width="400" height="400">
 </p>
 <p align="center">
    <i>Figure 6: Predicted output vs Actual output</i>
