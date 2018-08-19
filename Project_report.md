@@ -122,9 +122,7 @@ attributes do not provide any additional valuable information for
 prediction. For this purpose, we have plotted the correlation matrix
 using the *seaborn.heatmap* tool as shown in Figure 1.
 
-![](media/image2.png){width="3.458555336832896in" height="3.0in"}
-
-[]{#_Toc512950102 .anchor}Figure : Heat Map showing correlation
+![alt text](https://github.com/KanchanSatpute/Python-Wind-Power-Estimation/blob/master/Plots/CorrelationMatrix.png)
 
 In figure 1, we can see that the wind power is highly correlated with
 the wind speed and standard deviation of wind speed, whereas, medium
