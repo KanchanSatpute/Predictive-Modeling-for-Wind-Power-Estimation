@@ -38,7 +38,7 @@ prediction. Might be because of how the data is inherently structured.
 Finally we compare the RMSE of all the models and use the best among
 those methods for final prediction on test dataset.
 
-h2>Introduction</h2>
+<h2>Introduction</h2>
 
 Wind energy is one of the fastest growing renewable energy sources.
 According to US Department of Energy (DOE), the US’ wind power capacity
