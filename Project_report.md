@@ -135,7 +135,7 @@ change of input variables with time to see if there is a larger
 variability in data as time changes.
 
 <p align="center">
-   <img src="https://github.com/KanchanSatpute/Python-Wind-Power-Estimation/blob/master/Plots/Avg_pred_values_per_month.JPG">
+   <img src="https://github.com/KanchanSatpute/Python-Wind-Power-Estimation/blob/master/Plots/Avg_pred_values_per_month.JPG" width="800">
 </p>
 <p align="center">
    <i>Figure 4: Average values of predictors over each month</i>
