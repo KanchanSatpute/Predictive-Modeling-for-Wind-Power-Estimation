@@ -66,7 +66,9 @@ be used for representing the power output for a given bin is found by
 averaging all the power output values corresponding to the wind speed in
 each bins, namely:
 
-$$y_{i} = \frac{1}{N_{i}}\sum_{j = 1}^{N_{i}}y_{i,j}$$
+<p align="center">
+   <img src="http://latex.codecogs.com/svg.latex?y_i%3D%5Cfrac%7B1%7D%7BN_%7Bi%7D%7D%5Csum_%7Bj%3D1%7D%5E%7BN_i%7Dy_%7Bi%2Cj%7D">
+</p>
 
 where $y_{i,j}$ is the power output of the *j*^th^ data point in bin *i*
 and N~i~ is the number of data points in bin *i*. So this method takes
