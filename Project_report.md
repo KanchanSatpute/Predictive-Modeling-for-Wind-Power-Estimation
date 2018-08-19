@@ -124,8 +124,12 @@ attributes do not provide any additional valuable information for
 prediction. For this purpose, we have plotted the correlation matrix
 using the *seaborn.heatmap* tool as shown in Figure 1.
 
-![alt text](https://github.com/KanchanSatpute/Python-Wind-Power-Estimation/blob/master/Plots/CorrelationMatrix.png)
-<p align="center">Figure 1: Heat map showing correlation</p>
+<p align="center">
+   <img src="https://github.com/KanchanSatpute/Python-Wind-Power-Estimation/blob/master/Plots/CorrelationMatrix.png">
+</p>
+<p align="center">
+   <i>Figure 1: Heat map showing correlation</i>
+</p>
 
 In figure 1, we can see that the wind power is highly correlated with
 the wind speed and standard deviation of wind speed, whereas, medium
@@ -135,9 +139,12 @@ To illustrate the effect of correlation further, we have plotted the
 scatterplots between all the pairs of attributes and power output, using
 the *seaborn.PairGrid* tool.
 
-![](media/image3.png){width="6.5in" height="6.518055555555556in"}
-
-[]{#_Toc512950103 .anchor}Figure : Correlation matrix
+<p align="center">
+   <img src="https://github.com/KanchanSatpute/Python-Wind-Power-Estimation/blob/master/Plots/PairPlots.png" width="600" height="500">
+</p>
+<p align="center">
+   <i>Figure 2: Pair plots</i>
+</p>
 
 Figure 2 consists of the scatterplots between all the factors as well as
 the output and the histograms representing the underlying distribution
