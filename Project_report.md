@@ -70,7 +70,7 @@ each bins, namely:
    <img src="http://latex.codecogs.com/svg.latex?y_i%3D%5Cfrac%7B1%7D%7BN_%7Bi%7D%7D%5Csum_%7Bj%3D1%7D%5E%7BN_i%7Dy_%7Bi%2Cj%7D">
 </p>
 
-where ![img](http://latex.codecogs.com/svg.latex?%24y_%7Bi%2Cj%7D%24) is the power output of the *j*^th^ data point in bin *i*
+where ![img](http://latex.codecogs.com/svg.latex?y_%7Bi%2Cj%7D) is the power output of the ![img](http://latex.codecogs.com/svg.latex?j%5Et%5Eh) data point in bin *i*
 and N~i~ is the number of data points in bin *i*. So this method takes
 only wind speed into consideration while predicting the power output and
 ignores all other environmental variables which might have a significant
